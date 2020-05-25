@@ -36,7 +36,7 @@ int main(int argc, char** argv) {
 
 		    cout<< "\n";
 			cout<< "[ \n ";
-		   	cout<<"["<<"{"<<input<<"}"<<"]"<< "\n";;
+		   	cout<<"["<<"{"<<"""liczba"":"<<input<<"}"<<"]"<< "\n";;
 		    cout<< "]";
 
 
